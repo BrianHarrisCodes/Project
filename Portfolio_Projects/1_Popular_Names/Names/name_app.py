@@ -5,9 +5,9 @@ import matplotlib.pyplot as plt
 st.title('Popularity of Baby Names in the United States 1880-2022')
 
 
-df = pd.read_csv(r'C:\Users\brian\Project\Project\Names\big_list.csv')
-df2=pd.read_csv(r'C:\Users\brian\Project\Project\Names\girls.csv')
-df3=pd.read_csv(r'C:\Users\brian\Project\Project\Names\boys.csv')
+df = pd.read_csv(r'C:\Users\brian\Project\Project\Portfolio_Projects\1_Popular_Names\Names\big_list.csv')
+df2=pd.read_csv(r'C:\Users\brian\Project\Project\Portfolio_Projects\1_Popular_Names\Names\girls.csv')
+df3=pd.read_csv(r'C:\Users\brian\Project\Project\Portfolio_Projects\1_Popular_Names\Names\boys.csv')
 baby_name = st.text_input("Baby name", placeholder="Enter a baby name")
 gender = st.radio("Gender of the baby", ("M", "F"))
 baby_name = baby_name.strip().capitalize()
