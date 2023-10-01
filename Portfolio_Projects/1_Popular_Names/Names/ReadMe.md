@@ -21,3 +21,7 @@ All data are from a 100% sample of our records on Social Security card applicati
 <img src= "https://github.com/BrianHarrisCodes/Project/blob/main/Portfolio_Projects/1_Popular_Names/images/IMG_1639.jpg">
 
 
+
+##### © Brian Harris 2023
+
+
