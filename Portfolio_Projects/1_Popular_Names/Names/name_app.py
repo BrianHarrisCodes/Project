@@ -3,11 +3,13 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 st.title('Popularity of Baby Names in the United States 1880-2022')
+url1='https://raw.githubusercontent.com/BrianHarrisCodes/Project/main/Portfolio_Projects/1_Popular_Names/Names/big_list.csv'
+url2='https://raw.githubusercontent.com/BrianHarrisCodes/Project/main/Portfolio_Projects/1_Popular_Names/Names/girls.csv'
+url3='https://raw.githubusercontent.com/BrianHarrisCodes/Project/main/Portfolio_Projects/1_Popular_Names/Names/boys.csv'
 
-
-df = pd.read_csv(r'C:\Users\brian\Project\Project\Portfolio_Projects\1_Popular_Names\Names\big_list.csv')
-df2=pd.read_csv(r'C:\Users\brian\Project\Project\Portfolio_Projects\1_Popular_Names\Names\girls.csv')
-df3=pd.read_csv(r'C:\Users\brian\Project\Project\Portfolio_Projects\1_Popular_Names\Names\boys.csv')
+df = pd.read_csv(url1)
+df2=pd.read_csv(url2)
+df3=pd.read_csv(url3)
 baby_name = st.text_input("Baby name", placeholder="Enter a baby name")
 gender = st.radio("Gender of the baby", ("M", "F"))
 baby_name = baby_name.strip().capitalize()
