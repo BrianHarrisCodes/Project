@@ -8,3 +8,5 @@
 6. [**SpaceX Capstone**](https://github.com/BrianHarrisCodes/Project/tree/main/Portfolio_Projects/6_SpaceX_Capstone)
 7. [**Churn Analysis**](https://github.com/BrianHarrisCodes/Project/tree/main/Portfolio_Projects/7_Churn_Analysis_SQL)
 8. [**IBM Survey Capstone**](https://github.com/BrianHarrisCodes/Project/tree/main/Portfolio_Projects/8_IBM_survey_capstone)
+
+## [**Tableau Public Collection**](https://public.tableau.com/app/profile/brian.harris5549/vizzes)
