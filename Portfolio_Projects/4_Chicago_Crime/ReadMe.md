@@ -11,7 +11,8 @@ I took a list of questions for the Chicago Crime set and included them with SQL 
 
 The Tableau Dashboard is located [**here**](https://public.tableau.com/app/profile/brian.harris5549/viz/ChicagoCrimeData_16963529348860/ChicagoCrime2018-2023)
 ## **Conclusion**
-Crimes of theft have always been the highest category and battery/assault is the second.  There was a very sharp increase in crimes and cases during 2022. While Chicago is notorious for crime on the news and amongst analysts, it is only ranked 28th in the US for Murders per capita.  St. Louis is ranked number 1.
+Crimes of theft have always been the highest category and battery/assault is the second.  There was a very sharp increase in crimes and cases during 2023. While Chicago is notorious for crime on the news and amongst analysts, it is only ranked 28th in the US for Murders per capita.  St. Louis is ranked number 1.
+
 ## **Acknowledgements**
 
 I downloaded the dataset from kaggle here: https://www.kaggle.com/datasets/ashkanranjbar/chicago-crime .
