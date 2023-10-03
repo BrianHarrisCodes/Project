@@ -2,7 +2,7 @@
 <img src= "https://github.com/BrianHarrisCodes/Project/blob/main/Portfolio_Projects/4_Chicago_Crime/images/chicago_pd.jpg">
 
 ## **Introduction**
-Many an aspiring Data/Crime Analyst have tackled the 'Chicago Crime' Dataset. The data is widely known and easy to obtain.  I chose to focus on a more recent dataset and limited it to the year 2018-2023. 
+Many an aspiring Data/Crime Analyst have tackled the 'Chicago Crime' Dataset. The data is widely known and easy to obtain.  I chose to focus on a more recent dataset and limited it to the year 2018-2023. Note: the crimes indicated in this data have case numbers and unique ids. This makes them separate from Calls For Service that may not have an incident Case number applied. 
 
 ## **Methods**
 I took a list of questions for the Chicago Crime set and included them with SQL queries.  I then took the dataset and created a Tableau Dashboard to display data with filters that apply to each metric.
