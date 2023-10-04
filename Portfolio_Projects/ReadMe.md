@@ -5,8 +5,6 @@
 3. [**Webscraper**](https://github.com/BrianHarrisCodes/Project/tree/main/Portfolio_Projects/3_Webscraper)
 4. [**Chicago Crime**](https://github.com/BrianHarrisCodes/Project/tree/main/Portfolio_Projects/4_Chicago_Crime)
 5. [**Nashville Housing**](https://github.com/BrianHarrisCodes/Project/tree/main/Portfolio_Projects/5_Nashville_Housing_Data_Cleaning_SQL)
-6. [**SpaceX Capstone**](https://github.com/BrianHarrisCodes/Project/tree/main/Portfolio_Projects/6_SpaceX_Capstone)
-7. [**Churn Analysis**](https://github.com/BrianHarrisCodes/Project/tree/main/Portfolio_Projects/7_Churn_Analysis_SQL)
-8. [**IBM Survey Capstone**](https://github.com/BrianHarrisCodes/Project/tree/main/Portfolio_Projects/8_IBM_survey_capstone)
+6. [**Other Projects**](https://github.com/BrianHarrisCodes/Project/tree/main/Portfolio_Projects/Other_Projects)
 
 ## [**Tableau Public Collection**](https://public.tableau.com/app/profile/brian.harris5549/vizzes)
